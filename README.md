@@ -1,1 +1,1 @@
-# https://krazer1.github.io/index.html
+# https://krazer1.github.io
